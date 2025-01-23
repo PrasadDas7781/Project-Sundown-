@@ -1,0 +1,21 @@
+#shape1{
+    height: 40vw;  
+    width: 40vw;  
+    background-color: #fe2a0a;
+    border-radius: 50%;
+
+    
+  }
+  #shape2{
+      height: 50%;  
+      width: 50%;  
+      background-color: #fe2a0a;
+      border-radius: 50%;
+  
+    }
+    #container{
+      position: relative ;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
